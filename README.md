@@ -1,0 +1,3 @@
+SIMPLE JAVA REGISTERATION FORM 
+
+Get the input from user and store that data in new file......
